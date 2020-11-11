@@ -1,2 +1,2 @@
-# Technical-Ecommerce-Example
+# Technical-Ecommerce
 This is a Technical Ecommerce Project
